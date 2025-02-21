@@ -38,6 +38,7 @@
 }
 
 .theme-dark {
+  --fullwhite-font: #FA86C4;
   --header-primary: #FA86C4;
   --header-secondary: #bbb;
   --text-normal: #FFB7CE;

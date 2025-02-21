@@ -1149,7 +1149,7 @@ textarea {
   color: var(--text-normal);
 }
 #app-mount .container__55c99 .displayUsername_b0286e {
-  color: var(--text-muted);
+  color: var(--text-normal);
 }
 #app-mount .container__55c99 .option_b0286e .content_b0286e {
   --webkit-mask-image: linear-gradient(90deg, white, white 95%, transparent);
